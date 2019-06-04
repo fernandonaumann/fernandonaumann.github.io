@@ -17,13 +17,13 @@ ul.barranav {
 h1 {
   font-family: "Arial", Helvetica, Geneva, Arial,
         SunSans-Regular, sans-serif }
-/*ul.navbar li {
+ul.navbar li {
   background: white;
   margin: 0.5em 0;
   padding: 0.3em;
   border-right: 1em solid black }
 ul.navbar a {
-  text-decoration: none }*/
+  text-decoration: none }
 a:link {
   color: blue }
 a:visited {
