@@ -1,10 +1,12 @@
 body {
-  padding-left: 11em;
-  font-family: Georgia, "Times New Roman",
+  padding-left: 3em;
+  padding-right: 1em;
+  font-family: "Arial", Georgia, "Times New Roman",
         Times, serif;
-  color: purple;
-  background-color: ##DCDCDC }
-ul.navbar {
+  font-size: 11.5px;
+  color: black;
+  background-color: #dcdcdc }
+ul.barranav {
   list-style-type: none;
   padding: 0;
   margin: 0;
@@ -13,15 +15,15 @@ ul.navbar {
   left: 1em;
   width: 9em }
 h1 {
-  font-family: Helvetica, Geneva, Arial,
+  font-family: "Arial", Helvetica, Geneva, Arial,
         SunSans-Regular, sans-serif }
-ul.navbar li {
+/*ul.navbar li {
   background: white;
   margin: 0.5em 0;
   padding: 0.3em;
   border-right: 1em solid black }
 ul.navbar a {
-  text-decoration: none }
+  text-decoration: none }*/
 a:link {
   color: blue }
 a:visited {
