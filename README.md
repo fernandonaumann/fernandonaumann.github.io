@@ -1,3 +1,7 @@
 # fernandonaumann.github.io
 
-This project is an attempt to create my own professional website by implementing HTML and JavaScript.
+Welcome! Bem-vindo!
+
+This project wants to create, polish and maintain a website on news about Brazil translated into Portuguese.
+
+Feel free to collaborate.
